@@ -1,0 +1,18 @@
+Mar 29 06:50:12 ==DUPLICATOR INSTALLER BOOTSTRAP v3.7.3.1==
+Mar 29 06:50:12 ----------------------------------------------------
+Mar 29 06:50:12 Installer bootstrap start
+Mar 29 06:50:12 Using archive H:/data/htdocs/huongstore/20190521_hatdieucaocap_c6fb239374fd14a32473_20190521030730_archive.zip
+Mar 29 06:50:12 H:\data\htdocs\huongstore/dup-installer already exists
+Mar 29 06:50:12 main.installer.php also exists so not going to extract installer directory
+Mar 29 06:50:12 Didn't need to extract the installer.
+Mar 29 06:50:12 Set permissions of H:/data/htdocs/huongstore/dup-installer to 755<br/>
+Mar 29 06:50:12 Set permissions of H:/data/htdocs/huongstore/dup-installer/api to 755<br/>
+Mar 29 06:50:12 Set permissions of H:/data/htdocs/huongstore/dup-installer/assets to 755<br/>
+Mar 29 06:50:12 Set permissions of H:/data/htdocs/huongstore/dup-installer/classes to 755<br/>
+Mar 29 06:50:12 Set permissions of H:/data/htdocs/huongstore/dup-installer/ctrls to 755<br/>
+Mar 29 06:50:12 Set permissions of H:/data/htdocs/huongstore/dup-installer/lib to 755<br/>
+Mar 29 06:50:12 Set permissions of H:/data/htdocs/huongstore/dup-installer/views to 755<br/>
+Mar 29 06:50:12 Set permissions of H:/data/htdocs/huongstore/dup-installer/archive.cfg to 666<br/>
+Mar 29 06:50:12 Set permissions of H:/data/htdocs/huongstore/dup-installer/index.php to 666<br/>
+Mar 29 06:50:12 Set permissions of H:/data/htdocs/huongstore/dup-installer/main.installer.php to 666<br/>
+Mar 29 06:50:12 No detected errors so redirecting to the main installer. Main Installer URI = http://localhost:83/huongstore/dup-installer/main.installer.php?archive=H%3A%2Fdata%2Fhtdocs%2Fhuongstore%2F20190521_hatdieucaocap_c6fb239374fd14a32473_20190521030730_archive.zip&bootloader=installer.php&

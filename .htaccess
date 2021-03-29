@@ -1,0 +1,12 @@
+# This file was updated by Duplicator Pro on 2021-03-29 06:57:18.
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /huongstore/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /huongstore/index.php [L]
+</IfModule>
+# END WordPress
